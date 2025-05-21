@@ -2,7 +2,7 @@
   <img src="outputs/capa_projeto.png" alt="Banner do projeto" width="100%">
 </p>
 
-# 🌡️ **Modelagem preditiva da temperatura média com Machine Learning e Séries Temporais**
+## 🌡️ Modelagem preditiva da temperatura média com Machine Learning e Séries Temporais
 Este projeto usa dados de reanálise climática do [ERA5](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) para prever a temperatura mensal média de 2025 a 2050, utilizando modelos como Regressão Linear, Random Forest, XGBoost, ARIMAX e SARIMAX.
 
 ---
