@@ -1,0 +1,16 @@
+# Ignorar arquivos temporários de notebooks
+.ipynb_checkpoints/
+
+# Ignorar arquivos de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de ambiente virtual (caso use)
+.env
+.venv/
+*.env
