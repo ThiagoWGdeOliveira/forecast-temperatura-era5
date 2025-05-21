@@ -3,7 +3,7 @@
 </p>
 
 ## 🌡️ Modelagem preditiva da temperatura média com Machine Learning e Séries Temporais
-Este projeto usa dados de reanálise climática do [ERA5](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) para prever a temperatura mensal média de 2025 a 2050, utilizando modelos como Regressão Linear, Random Forest, XGBoost, ARIMAX e SARIMAX.
+Este projeto usa dados de reanálise climática do [ERA5](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) para prever a temperatura mensal média de 2025 a 2050, utilizando modelos como Regressão Linear, Random Forest, XGBoost, ARIMAX e SARIMAX em `python`.
 
 ---
 
@@ -52,3 +52,9 @@ Criar uma pipeline preditiva robusta com simulaçõs Monte Carlo para projetar a
 
 ## 📌 Observação
 Os dados utilizados são públicos, provenientes do ERA5 (Copernicus Climate Data Store), e foram processados localmente antes de serem versionados neste repositório.
+
+---
+
+## 👨‍💻 Autor:
+**Thiago Wendling Gonçalves de Oliveira**
+[linkedln](https://www.linkedin.com/in/thiago-w-g-de-oliveira/)
