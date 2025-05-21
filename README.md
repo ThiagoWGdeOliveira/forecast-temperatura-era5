@@ -29,11 +29,13 @@ Criar uma pipeline preditiva robusta com simulaçõs Monte Carlo para projetar a
 
 ## 📊 Resultados
 - Comparação de desempenho entre os modelos
-![Comparação modelos]()
+![Comparação modelos](outputs/Comparacao_modelos.png)
 - Previsão da temperatura média mensal de 2025 a 2050 com Random Forest (com variáveis exógenas)
+![Previsão Random Forest](outputs/Previsao_temperatura_ate_2050.png)
 - Previsão da temperatura média mensal de 2025 a 2050 com ARIMAX
-- Gráfico de barras com a temperatura média anual de 2025 a 2050
-- Representação da diferença entre a temperatura média anual futura e a temperatura média histórica
+![Previsão ARIMAX](outputs/Previsao_temperatura_ate_2050_arimax.png)
+- Gráfico de barras com a temperatura média anual de 2025 a 2050 e representação da diferença entre a temperatura média anual futura e a temperatura média histórica
+![Temperatura anual](outputs/Temperatura_media_anual_2025_a_2050.png)
 
 ---
 
